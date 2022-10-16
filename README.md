@@ -12,4 +12,15 @@ To reduce the risk of Banks, this model has been developed to predict customer d
 ## Dataset Information
 This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
 
+## Tools used
+1.Pandas
+
+2.Numpy
+
+3.Matplotlib
+
+4.Seaborn
+
+5.Sklearn
+
 
